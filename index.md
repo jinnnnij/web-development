@@ -1,6 +1,6 @@
 ## Build A Website With GitHub Pages
 
-**[Jekyll](https://jekyllrb.com)** is one of the most popular static site generators.
+**[Jekyll](https://jekyllrb.com)** is one of the most popular static site generators. It can be used to customize the GitHub Pages site.
 
 Use the [editor on GitHub](https://github.com/jinnnnij/web-development/edit/gh-pages/index.md) to maintain and preview the content for the website in Markdown files.
 
